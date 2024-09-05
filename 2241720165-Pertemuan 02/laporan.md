@@ -15,11 +15,13 @@ Output yang diminta:
 Jawab:
 ```dart
     void main (){
-    for (var i = 19; i > 8; i--) {
+    for (var i = 18; i >= 9; i--) {
         print('Nama saya adalah Fulan, sekarang berumur ${i}');
         }
     }
 ```
+
+![alt text](image/image-3.png)
 
 2. Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!
 
