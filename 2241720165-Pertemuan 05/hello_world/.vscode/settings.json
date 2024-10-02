@@ -1,0 +1,10 @@
+{
+    "cmake.sourceDirectory": "D:/Kuliah/semester 5/Pemrograman-Mobile/2241720165-Pertemuan 05/hello_world/linux",
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadOnSave": "all",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "dart.flutterScreenshotPath": null,
+    "editor.formatOnSave": true,
+    "dart.flutterGenerateLocalizationsOnSave": "all"
+}
