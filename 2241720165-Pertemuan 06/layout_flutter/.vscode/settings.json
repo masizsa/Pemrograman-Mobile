@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "editor.formatOnSave": true,
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadOnSave": "all",
+    "dart.flutterGenerateLocalizationsOnSave": "all",
+    "cmake.sourceDirectory": "D:/Kuliah/semester 5/Pemrograman-Mobile/2241720165-Pertemuan 06/layout_flutter/linux"
+}
